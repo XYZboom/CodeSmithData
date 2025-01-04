@@ -1,0 +1,4 @@
+/root/autodl-tmp/tmp/00408e03ca498453/00409046d755f160/RARrP.java:3: error: Mls8 cannot be inherited with different arguments: <> and <N9b0hS>
+public abstract class RARrP extends KdjwzN  {
+                ^
+1 error
