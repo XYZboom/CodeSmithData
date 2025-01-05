@@ -1,0 +1,3 @@
+Scala Error:
+RangePosition(/root/autodl-tmp/tmp/0040db76a882bdd8/0040dbc508e99f39/GH1n4.scala, 51, 51, 68): illegal inheritance;
+ self-type GH1n4[T6,T7,T8] does not conform to CTn9d[Object,T6]'s selftype CTn9d[Object,T6]
