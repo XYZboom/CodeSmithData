@@ -1,0 +1,1 @@
+/root/autodl-tmp/tmp/00411be47f643fde/00411be49b79d487/Fzo5r7WB.java:3:19 class Fzo5r7WB cannot be instantiated since it has conflicting base types UJ5LU69m[scala.runtime.BoxedUnit, scala.runtime.BoxedUnit, Object] and UJ5LU69m[scala.Unit, scala.Unit, Object]

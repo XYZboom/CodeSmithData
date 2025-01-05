@@ -1,0 +1,16 @@
+/root/autodl-tmp/tmp/00411c45f5a0eb5f/00411c481f3b5fcb/CncQ.java:4: error: CncQ is not abstract and does not override abstract method vFTr(BoxedUnit,OekYJuz) in C7Ec5rE
+public class CncQ extends Object implements C7Ec5rE<BoxedUnit, CncQ, OekYJuz> {
+       ^
+/root/autodl-tmp/tmp/00411c45f5a0eb5f/00411c481f3b5fcb/CncQ.java:14: error: vFTr(BoxedUnit,OekYJuz) in CncQ cannot implement vFTr(T0,OekYJuz) in C7Ec5rE
+    public final /*@NotNull*/ void vFTr(/*@Nullable*/ BoxedUnit hso, /*@NotNull*/ OekYJuz dAaMJC) {
+                                   ^
+  return type void is not compatible with BoxedUnit
+  where T0 is a type-variable:
+    T0 extends Object declared in interface C7Ec5rE
+/root/autodl-tmp/tmp/00411c45f5a0eb5f/00411c481f3b5fcb/A6dtwIC.java:4: error: vFTr(BoxedUnit,OekYJuz) in CncQ cannot implement vFTr(T0,OekYJuz) in C7Ec5rE
+public abstract class A6dtwIC extends CncQ implements C7Ec5rE<BoxedUnit, CncQ, OekYJuz> {
+                ^
+  return type void is not compatible with BoxedUnit
+  where T0 is a type-variable:
+    T0 extends Object declared in interface C7Ec5rE
+3 errors
