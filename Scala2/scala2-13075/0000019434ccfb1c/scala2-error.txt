@@ -1,0 +1,16 @@
+Java Error:
+/root/autodl-tmp/tmp/00410567f78f0c31/004105a2b18d7fbe/ZMIKZtw.java:7: error: name clash: nrm(@org.jetbrains.annotations.NotNull Void) in ZMIKZtw overrides a method whose erasure is the same as another method, yet neither overrides the other
+    public @Nullable Object nrm(@NotNull Void fwH) {
+                            ^
+  first method:  nrm(Object) in CcbKi
+  second method: nrm(T2) in Qo0st
+  where T2 is a type-variable:
+    T2 extends Object declared in interface Qo0st
+/root/autodl-tmp/tmp/00410567f78f0c31/004105a2b18d7fbe/ZMIKZtw.java:10: error: name clash: mz2L(Void,SQOQCc<Object>) in ZMIKZtw overrides a method whose erasure is the same as another method, yet neither overrides the other
+    public /*@Nullable*/ Object mz2L(/*@Nullable*/ Void xTP, /*@NotNull*/ SQOQCc</*@NotNull*/ Object> jjwrKg1) {
+                                ^
+  first method:  mz2L(Object,SQOQCc) in CcbKi
+  second method: mz2L(T2,@org.jetbrains.annotations.NotNull SQOQCc<Object>) in Qo0st
+  where T2 is a type-variable:
+    T2 extends Object declared in interface Qo0st
+2 errors
