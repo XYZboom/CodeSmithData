@@ -1,0 +1,3 @@
+Scala Error:
+/root/autodl-tmp/tmp/0040ffda7af7137d/0041015a5bb6fa75/L3q.scala:0:11 class L3q needs to be abstract, since def djw(xXjXr4: T0, kKZ2H: TQoikrEe[Void], tk4JhAC: Object): Unit in trait TQoikrEe is not defined 
+(The class implements a member with a different type: def djw(xXjXr4: FJF1, kKZ2H: TQoikrEe[Knsp], tk4JhAC: Object): Unit in trait FJF1)
