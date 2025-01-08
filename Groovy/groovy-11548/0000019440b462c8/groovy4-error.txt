@@ -1,0 +1,5 @@
+Major Error:
+startup failed:
+/root/autodl-tmp/tmp/0041b9655147ddc1/0041bb455811a588/EtZoGh5.groovy: -1: You are not allowed to override the final method hWr() from class 'CXnH4'.
+ @ line -1, column -1.
+1 error

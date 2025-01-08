@@ -1,0 +1,7 @@
+startup failed:
+/root/autodl-tmp/tmp/0041ac2f0ba1cc23/0041ac30471ca1cf/IFr1QH.groovy: 3: Can't have an abstract method in a non-abstract class. The class 'IFr1QH' must be declared abstract or the method 'java.lang.Object dghG()' must be implemented.
+ @ line 3, column 1.
+   public class IFr1QH</*@NotNull*/ T6> extends KroRT implements CVW, X9ffaL8<Object, KroRT> {
+   ^
+
+1 error
