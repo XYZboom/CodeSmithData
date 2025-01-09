@@ -1,0 +1,10 @@
+Java Error:
+startup failed:
+Compile error during compilation with javac.
+/root/autodl-tmp/tmp/0042047fb1977c7a/00420488f4b4f050/J4PVjpck.java:22: error: name clash: ubRxUS8(C0N,R7e<Object,HGI>,Nmjj) in J4PVjpck and ubRxUS8(C0N,R7e<Object,Void>,Nmjj) in R7e have the same erasure, yet neither overrides the other
+    public final /*@Nullable*/ PdK0 ubRxUS8(/*@NotNull*/ C0N oxJYehG5, /*@NotNull*/ R7e</*@NotNull*/ Object, /*@NotNull*/ HGI> a4NVPPiI, /*@NotNull*/ Nmjj lqh) {
+                                    ^
+1 error
+
+
+1 error
